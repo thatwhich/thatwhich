@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Alex 👋
+
+🌱 Founder: <a href="https://trustrecruitmentservices.com/">TRS</a>
+👯 Co-owner: <a href="https://bestheads.in.ua">BestHeads</a>
 
 <!--
 **thatwhich/thatwhich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
